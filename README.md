@@ -14,13 +14,13 @@ Movie Series is an app built with Kotlin and Jetpack Compose. It is designed to 
 # Features
 
 1️- Onboarding Screen
-* Display images of all movie series that have more than one part.
-* Use a vertical gradient background with blue at the top and black at the bottom.
-* Invite users to join the adventure with the text, "Get Ready for an Epic Movie Series Adventure!"
-* Provide a clear call-to-action button, "Watch now."
+* Displays images of all movie series that have more than one part.
+* Uses a vertical gradient background with blue at the top and black at the bottom.
+* Invites users to join the adventure with the text, "Get Ready for an Epic Movie Series Adventure!"
+* Provides a clear call-to-action button, "Watch now."
   
 2️- Home Screen
-* Showcase a LazyColumn of movie series cards.
+* Showcases a LazyColumn of movie series cards.
 * Each card includes the series name and the number of parts.
   
 3- Search Screen
