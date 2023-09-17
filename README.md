@@ -10,6 +10,7 @@ Movie Series is an app built with Kotlin and Jetpack Compose. It is designed to 
 
 
 # Demo
+https://vimeo.com/865344767?share=copy
 
 # Features
 
