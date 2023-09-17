@@ -1,4 +1,4 @@
-# MovieSeriesApp
+# MovieSeries App
 
 Movie Series is an app built with Kotlin and Jetpack Compose. It is designed to help users explore and discover information about their favorite movie series.
 
@@ -37,6 +37,10 @@ Movie Series is an app built with Kotlin and Jetpack Compose. It is designed to 
 Throughout the development of this app, I have gained valuable knowledge and skills in the following areas:
 
 ✔ Navigation between screens.
+
+✔ Using viewmodels.
+
+✔ Handling data with composable functions.
 
 ✔ Creating top and bottoms bars.
 
